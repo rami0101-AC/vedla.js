@@ -1,0 +1,38 @@
+{
+  "name": "vedla.js",
+  "version": "0.0.1 - alpha",
+  "description": "vedla.js development package",
+  "main": "src/index.js",
+  "keywords": [
+    "vedla",
+    "vedla.js",
+    "vedla.io",
+    "vedla.js development package"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rami0101-AC/vedla.js.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rami0101-AC/vedla.js/issues"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo 'Oh no! They are no tests available =('"
+  },
+  "homepage": "https://github.com/rami0101-AC/vedla.js#readme",
+  "author": "Taylor Fox <tay@vedla.io>",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@jymfony/var-dumper": "^0.1.0-alpha.31",
+    "dumper.js": "^1.3.1",
+    "jymfony": "^0.1.0-alpha.31",
+    "log-symbols": "^5.1.0",
+    "nodemon": "^2.0.22",
+    "vdumper": "^1.2.2"
+  }
+}
