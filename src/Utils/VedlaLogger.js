@@ -1,3 +1,4 @@
+/* @namespace */
 import vdumper from "vdumper";
 import logSymbols from "log-symbols";
 import dump_die from "dumper.js";

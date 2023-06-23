@@ -1,7 +1,7 @@
 // const { config } = require("./vedla-conf.json");
 // import VedlaLogger from "./utils/Log.js";
-import VedlaJS from "./VedlaJS.js";
-import VedlaLogger from "./utils/VedlaLogger.js";
+import VedlaJS from "./VedlaJS.js"
+import VedlaLogger from "./Utils/VedlaLogger.js";
 
 // console.log(config);
 const logTest = "Hello World!";

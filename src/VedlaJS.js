@@ -1,5 +1,7 @@
+/* @namespace */
+
 import config from "./vedla.conf.js";
-import VedlaLogger from "./utils/VedlaLogger.js";
+import VedlaLogger from "./Utils/VedlaLogger.js";
 
 class VedlaJS {
   constructor() {
